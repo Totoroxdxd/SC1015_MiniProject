@@ -120,8 +120,8 @@ Elaine
 
 # References
 
-  Genius:  https://genius.com/
-  Spotify API for developer: https://developer.spotify.com/documentation/web-api
+  Genius:  https://genius.com/  
+  Spotify API for developer: https://developer.spotify.com/documentation/web-api  
   Spotify for Artist: https://artists.spotify.com/home
 
 ---
