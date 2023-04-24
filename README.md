@@ -1,18 +1,19 @@
 # SC1015 Mini-Project
+![coverimage](https://user-images.githubusercontent.com/120243245/233890752-2eddb92b-4543-4a84-9a9e-e3f81eed2121.png)
 
 
-## Problem Definition: Song Popularity Prediction
+## Motivation: Song Popularity Prediction
 As aspiring songwriters, we want to find out if the music we write will be a hit before releasing.
 
-Spotify is the most popular music streaming platform as of 2023 hence we will be using the dataset from Spotify.
+Spotify is the most popular music streaming platform as of 2023, thus the popularity of a song on Spotify could be a good indicator of a song's success. As such, we will be using a Spotify music related dataset to do our popularity prediction.  
 
-**Thus, our problem definition:** “What are the key song attributes that would determine if a song would become popular on Spotify?”
+**This brings us to our problem definition:** “What are the key song attributes that would determine if a song would become popular on Spotify?”
 
 ## Dataset
 CSV: [Spotify Song Features](SpotifyFeatures.csv)
 Dataset is taken from Kaggle thanks to Zaheen Hamidani who made it avaliable: https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db.
 
-The dataset contains details from 232,725 song tracks across 26 music genre. In addition, cleaning this dataset, we have also created a subset of this dataset with song lyrics added. (Check our jupyter notebook for details on why we created a seperated dataset)
+The dataset contains details from 232,725 song tracks across 26 music genre. In addition, after cleaning this dataset, we have also created a subset of this dataset with song lyrics added. (Check our jupyter notebook for details on why we created a seperated dataset)
 
 Check out our [data description file](data_description.md) for brief descriptions of each data variables.
 
@@ -117,6 +118,10 @@ Ye Chuan
 Elaine
 
 ---
+
+# Presentation Video link
+[Click Here](https://youtu.be/Pimvlokebh0) to video our presentation video.
+
 
 # References
 
