@@ -119,7 +119,7 @@ Elaine
 ---
 
 # Presentation Video link
-[Click Here](https://youtu.be/Pimvlokebh0) to video our presentation video.
+[Click Here](https://youtu.be/Pimvlokebh0) to view our presentation video.
 
 
 # References
