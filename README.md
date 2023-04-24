@@ -64,8 +64,7 @@ This gives us an idea for our next DSAI project: perhaps we can analyse the audi
   
 
 ## Slides
-
-
+[Click Here](SC1015_MiniProjectPresentationSlides.pdf) to view our slides
 
 
 
